@@ -650,6 +650,114 @@
           "chars": 2476
         }
       ]
+    },
+    {
+      "id": "kaizu",
+      "title": "遠回りの海図",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "旅行雑誌の編集者・桐谷栞は、休暇で海沿いの町を目指す途中、車窓に見えた小さな駅の赤い橋が気になって途中下車する。予定表を閉じた四日間の、遠回りの旅。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 12438,
+      "estimatedMinutes": 25,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "途中下車の理由",
+          "file": "works/kaizu/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2532
+        },
+        {
+          "no": 2,
+          "title": "坂の上にも川がある",
+          "file": "works/kaizu/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2367
+        },
+        {
+          "no": 3,
+          "title": "山のてっぺんの青",
+          "file": "works/kaizu/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2398
+        },
+        {
+          "no": 4,
+          "title": "写真にならない風景",
+          "file": "works/kaizu/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2497
+        },
+        {
+          "no": 5,
+          "title": "海図にない帰り道",
+          "file": "works/kaizu/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2644
+        }
+      ]
+    },
+    {
+      "id": "natsuchizu",
+      "title": "夏の地図は風に聞く",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "海辺の町・汐見町で、夏祭りの散歩地図を作ることになったデザイナーの小野澪。案内したいのは最短の道ではなく、風と日陰をたどる涼しい道。町の人たちと一緒に歩いて作る、一週間の地図づくり。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "心温まる",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 11995,
+      "estimatedMinutes": 24,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "駅前の青い三角旗",
+          "file": "works/natsuchizu/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2116
+        },
+        {
+          "no": 2,
+          "title": "日陰の名前を集める",
+          "file": "works/natsuchizu/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2530
+        },
+        {
+          "no": 3,
+          "title": "雨宿りの設計図",
+          "file": "works/natsuchizu/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2355
+        },
+        {
+          "no": 4,
+          "title": "魚のシャッターが開く日",
+          "file": "works/natsuchizu/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2376
+        },
+        {
+          "no": 5,
+          "title": "夏の地図は風に聞く",
+          "file": "works/natsuchizu/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2618
+        }
+      ]
     }
   ]
 }
