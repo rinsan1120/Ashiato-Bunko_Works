@@ -380,6 +380,60 @@
           "chars": 2636
         }
       ]
+    },
+    {
+      "id": "hachigatsu",
+      "title": "八月の音をしまう箱",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "閉店した祖母の駄菓子屋「こまどり」の片づけで帰省した梢は、子供のころ幼なじみと録った「町の音の地図」のカセットテープを見つける。六つ目の場所だけが空白のまま、何を録るはずだったのか思い出せない。幼なじみと町を歩き直す、夏の終わりの二日間。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "心温まる",
+        "不思議な雰囲気"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 11461,
+      "estimatedMinutes": 23,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "黄色い軒の下",
+          "file": "works/hachigatsu/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2257
+        },
+        {
+          "no": 2,
+          "title": "ラムネ瓶の底",
+          "file": "works/hachigatsu/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2214
+        },
+        {
+          "no": 3,
+          "title": "なくなったものの隣に",
+          "file": "works/hachigatsu/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2258
+        },
+        {
+          "no": 4,
+          "title": "星の降らない天井",
+          "file": "works/hachigatsu/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2166
+        },
+        {
+          "no": 5,
+          "title": "新しい七番目",
+          "file": "works/hachigatsu/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2566
+        }
+      ]
     }
   ]
 }
