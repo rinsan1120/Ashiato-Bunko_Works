@@ -488,6 +488,168 @@
           "chars": 2577
         }
       ]
+    },
+    {
+      "id": "madogawa",
+      "title": "二人分の窓側",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "予定は全部、生活支援アプリ「さきどり」が組んでくれる。ある土曜の朝、西野葵のもとに、身に覚えのない予約確定の通知が届く。来週末の特急と海辺の宿、2名様分。確かめるための小さな旅が始まる。",
+      "genres": [
+        "SF"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 11019,
+      "estimatedMinutes": 22,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "知らない予約",
+          "file": "works/madogawa/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2088
+        },
+        {
+          "no": 2,
+          "title": "十年まえのメモ",
+          "file": "works/madogawa/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2003
+        },
+        {
+          "no": 3,
+          "title": "片方だけの特急",
+          "file": "works/madogawa/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2206
+        },
+        {
+          "no": 4,
+          "title": "かもめ荘の預かりもの",
+          "file": "works/madogawa/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2325
+        },
+        {
+          "no": 5,
+          "title": "二人分の窓側",
+          "file": "works/madogawa/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2397
+        }
+      ]
+    },
+    {
+      "id": "kuushitsu",
+      "title": "空室のとなり",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "家賃の安さで決めた、築三十二年の木造アパート。隣の二〇三号室は空室のはずなのに、毎晩二十三時になると、壁の向こうから音がする。",
+      "genres": [
+        "ホラー"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "シリアス"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 10380,
+      "estimatedMinutes": 21,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "二十三時の音",
+          "file": "works/kuushitsu/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2134
+        },
+        {
+          "no": 2,
+          "title": "空室のポスト",
+          "file": "works/kuushitsu/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2108
+        },
+        {
+          "no": 3,
+          "title": "三回叩く人",
+          "file": "works/kuushitsu/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2043
+        },
+        {
+          "no": 4,
+          "title": "すみえさんの手紙",
+          "file": "works/kuushitsu/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2063
+        },
+        {
+          "no": 5,
+          "title": "おやすみなさい",
+          "file": "works/kuushitsu/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2032
+        }
+      ]
+    },
+    {
+      "id": "natsu36",
+      "title": "三十六枚目の夏",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "部員は二人だけ、廃部の猶予一年目の写真部。夏休みを前にした部室の大掃除で見つけたのは、誰のものか分からない、撮りかけのフィルムだった。",
+      "genres": [
+        "青春"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 11333,
+      "estimatedMinutes": 23,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "残っていたフィルム",
+          "file": "works/natsu36/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2367
+        },
+        {
+          "no": 2,
+          "title": "三年前の部誌",
+          "file": "works/natsu36/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2190
+        },
+        {
+          "no": 3,
+          "title": "止まった時計",
+          "file": "works/natsu36/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2081
+        },
+        {
+          "no": 4,
+          "title": "知らない番号",
+          "file": "works/natsu36/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2219
+        },
+        {
+          "no": 5,
+          "title": "三十六枚目",
+          "file": "works/natsu36/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2476
+        }
+      ]
     }
   ]
 }
