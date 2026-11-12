@@ -758,6 +758,60 @@
           "chars": 2618
         }
       ]
+    },
+    {
+      "id": "yumebune",
+      "title": "夢を渡る船",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "凪良港のフェリー乗り場で夜間警備員として働く篠原透。故郷の波戸島を出て二十年、一度も帰っていない。仮眠のたびに見る夢の中で、透は波戸島へ向かう船に乗っている。少女は言った。『あと四回眠ったら、着くよ。忘れ物、届けに来たからね』。やがて現実の航路にも、廃止の日が近づいてくる。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "切ない"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5057,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "夜勤の仮眠",
+          "file": "works/yumebune/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 970
+        },
+        {
+          "no": 2,
+          "title": "あと三回",
+          "file": "works/yumebune/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1148
+        },
+        {
+          "no": 3,
+          "title": "桟橋の人影",
+          "file": "works/yumebune/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 944
+        },
+        {
+          "no": 4,
+          "title": "最後の切符",
+          "file": "works/yumebune/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 940
+        },
+        {
+          "no": 5,
+          "title": "波戸島に着く",
+          "file": "works/yumebune/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1055
+        }
+      ]
     }
   ]
 }
