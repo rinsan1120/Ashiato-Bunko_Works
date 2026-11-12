@@ -1136,6 +1136,708 @@
           "chars": 971
         }
       ]
+    },
+    {
+      "id": "sumaho",
+      "title": "視聴者ひとりの配信",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "登録者三十人の無名の配信者、相馬莉子。深夜の配信に毎晩必ず現れる一人の視聴者「U」は、コメントもなく、ただ最後までいる。ある夜、Uが初めてコメントする。「今日で最後です」。",
+      "genres": [
+        "青春"
+      ],
+      "styles": [
+        "切ない",
+        "不思議な雰囲気"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5180,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "登録者三十人",
+          "file": "works/sumaho/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1011
+        },
+        {
+          "no": 2,
+          "title": "引き留め作戦",
+          "file": "works/sumaho/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1055
+        },
+        {
+          "no": 3,
+          "title": "Uの正体",
+          "file": "works/sumaho/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1015
+        },
+        {
+          "no": 4,
+          "title": "最後のリクエスト",
+          "file": "works/sumaho/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1001
+        },
+        {
+          "no": 5,
+          "title": "視聴者ゼロの夜",
+          "file": "works/sumaho/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1098
+        }
+      ]
+    },
+    {
+      "id": "baiku",
+      "title": "山の配達員",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "山間集落をバイクで回る郵便配達員、戸倉源一。過疎化で、長年の配達ルートが来月で廃止されることになった。最後の一ヶ月、源一はルート最奥の一軒へ届く週に一度の花の小包と、集落の人々への挨拶を胸に山道を走る。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5116,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "ルート廃止の通達",
+          "file": "works/baiku/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 965
+        },
+        {
+          "no": 2,
+          "title": "最奥の一軒",
+          "file": "works/baiku/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1148
+        },
+        {
+          "no": 3,
+          "title": "花の宛先",
+          "file": "works/baiku/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1028
+        },
+        {
+          "no": 4,
+          "title": "挨拶状",
+          "file": "works/baiku/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 966
+        },
+        {
+          "no": 5,
+          "title": "丘の上の墓参り",
+          "file": "works/baiku/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1009
+        }
+      ]
+    },
+    {
+      "id": "toudai",
+      "title": "岬の灯、最後の冬",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "昭和三十八年、北の海に立つ鴎岬灯台。灯台守の妻・佐伯千代は、灯台の自動化でこの冬が岬で過ごす最後の季節になると知る。千代は岬での日々を日記に書き始める。やがて嵐の夜が近づいてくる。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5212,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "自動化の知らせ",
+          "file": "works/toudai/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1038
+        },
+        {
+          "no": 2,
+          "title": "岬の暮らし",
+          "file": "works/toudai/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 997
+        },
+        {
+          "no": 3,
+          "title": "嵐の夜",
+          "file": "works/toudai/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1117
+        },
+        {
+          "no": 4,
+          "title": "帰港",
+          "file": "works/toudai/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1012
+        },
+        {
+          "no": 5,
+          "title": "最後の点火",
+          "file": "works/toudai/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1048
+        }
+      ]
+    },
+    {
+      "id": "yuki",
+      "title": "雪を積む人",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "青森の豪雪の町で、夜間除雪車の運転手を三十年続けてきた高橋清一。今季限りで引退する清一には、雪の中から拾った落とし物を交番へ届ける長年の習慣があった。最後の季節、落とし物の中に、四十年前に自分が失くしたはずの学生証が混じっていた。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5253,
+      "estimatedMinutes": 11,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "今季最初の雪",
+          "file": "works/yuki/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1122
+        },
+        {
+          "no": 2,
+          "title": "四十年前の雪",
+          "file": "works/yuki/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1040
+        },
+        {
+          "no": 3,
+          "title": "片方の手袋",
+          "file": "works/yuki/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 959
+        },
+        {
+          "no": 4,
+          "title": "最後の大雪",
+          "file": "works/yuki/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1048
+        },
+        {
+          "no": 5,
+          "title": "雪どけの朝",
+          "file": "works/yuki/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1084
+        }
+      ]
+    },
+    {
+      "id": "namida",
+      "title": "泣き屋の千夏",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "葬儀で涙を流す専門職「泣き屋」の桐生千夏。仕事では自在に泣けるのに、母の葬儀では一滴も泣けなかった。辞職を考える千夏のもとに届いたのは、「自分の生前葬で泣いてほしい」という老婦人からの依頼だった。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5105,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "仕事の涙",
+          "file": "works/namida/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1240
+        },
+        {
+          "no": 2,
+          "title": "泣けない依頼",
+          "file": "works/namida/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 968
+        },
+        {
+          "no": 3,
+          "title": "生前葬の打ち合わせ",
+          "file": "works/namida/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 937
+        },
+        {
+          "no": 4,
+          "title": "房子の荷物",
+          "file": "works/namida/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 989
+        },
+        {
+          "no": 5,
+          "title": "自分の涙",
+          "file": "works/namida/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 971
+        }
+      ]
+    },
+    {
+      "id": "inu",
+      "title": "預かり犬の一年",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "盲導犬候補の子犬「むぎ」を一年間預かることになった佐藤一家。乗り気でなかった父・健吾と、むぎとの暮らしが始まる。けれど別れの日は、最初から決まっていた。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5272,
+      "estimatedMinutes": 11,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "生後二ヶ月の同居人",
+          "file": "works/inu/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1036
+        },
+        {
+          "no": 2,
+          "title": "初めての散歩",
+          "file": "works/inu/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1002
+        },
+        {
+          "no": 3,
+          "title": "夏の電車",
+          "file": "works/inu/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1074
+        },
+        {
+          "no": 4,
+          "title": "あと一ヶ月のカレンダー",
+          "file": "works/inu/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1095
+        },
+        {
+          "no": 5,
+          "title": "別れと便り",
+          "file": "works/inu/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1065
+        }
+      ]
+    },
+    {
+      "id": "camp",
+      "title": "サイト7番の長い夜",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "冬の山あい、閑散期のキャンプ場で管理人を務める水野梓。7番サイトにだけ、毎週末欠かさず現れる長期滞在の老キャンパーがいる。ある日梓は、倉庫でその男の名前が記された古い救助記録を見つける。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5024,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "冬の管理人",
+          "file": "works/camp/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 995
+        },
+        {
+          "no": 2,
+          "title": "忘れ物のランタン",
+          "file": "works/camp/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 999
+        },
+        {
+          "no": 3,
+          "title": "吹雪の夜",
+          "file": "works/camp/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1051
+        },
+        {
+          "no": 4,
+          "title": "救助隊員の約束",
+          "file": "works/camp/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 999
+        },
+        {
+          "no": 5,
+          "title": "最後の朝の焚き火",
+          "file": "works/camp/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 980
+        }
+      ]
+    },
+    {
+      "id": "mizuumi",
+      "title": "湖底の番地",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "少雨で水位の下がったダム湖に、四十年前に沈んだ集落の跡が現れた。そこは測量会社に勤める大槻遥の祖母が生まれ育った場所だった。祖母の言う「蔵の床下に埋めた缶」を探して、遥は湖畔へ向かう。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "切ない"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5025,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "水位のニュース",
+          "file": "works/mizuumi/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 993
+        },
+        {
+          "no": 2,
+          "title": "湖畔の町",
+          "file": "works/mizuumi/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 993
+        },
+        {
+          "no": 3,
+          "title": "現れた番地",
+          "file": "works/mizuumi/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1027
+        },
+        {
+          "no": 4,
+          "title": "蔵のあった場所",
+          "file": "works/mizuumi/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1019
+        },
+        {
+          "no": 5,
+          "title": "水の戻る前に",
+          "file": "works/mizuumi/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 993
+        }
+      ]
+    },
+    {
+      "id": "sougen",
+      "title": "野焼きの朝",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "阿蘇の草原を守る春の野焼きが、若手不足から中止の危機にあった。火入れの責任者を長年務める祖父・文治は「今年が最後」と言い、孫の駿に古い地図と火の回し方を託そうとする。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5001,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "中止の知らせ",
+          "file": "works/sougen/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1047
+        },
+        {
+          "no": 2,
+          "title": "祖父の地図",
+          "file": "works/sougen/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 994
+        },
+        {
+          "no": 3,
+          "title": "輪地切りの日々",
+          "file": "works/sougen/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1022
+        },
+        {
+          "no": 4,
+          "title": "前夜の話",
+          "file": "works/sougen/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 991
+        },
+        {
+          "no": 5,
+          "title": "野焼きの朝",
+          "file": "works/sougen/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 947
+        }
+      ]
+    },
+    {
+      "id": "yoake",
+      "title": "四時半の競り",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "夜明け前の魚市場で、競り人の見習いをする早瀬凪。毎朝、競りの最後に残る訳ありの魚を、無口な元漁師の老人が必ず競り落としていく。その魚の行き先が、凪は気になって仕方ない。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "心温まる",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5064,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "夜明け前の市場",
+          "file": "works/yoake/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1056
+        },
+        {
+          "no": 2,
+          "title": "最後の一箱",
+          "file": "works/yoake/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 977
+        },
+        {
+          "no": 3,
+          "title": "魚の行き先",
+          "file": "works/yoake/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1040
+        },
+        {
+          "no": 4,
+          "title": "熊田の朝ごはん",
+          "file": "works/yoake/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1006
+        },
+        {
+          "no": 5,
+          "title": "初めての競り",
+          "file": "works/yoake/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 985
+        }
+      ]
+    },
+    {
+      "id": "yuugure",
+      "title": "ゆうぐれの町の続き",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "絵本作家の西沢灯は、亡き祖母の遺品から未完の絵本「ゆうぐれの町」の原画を見つける。夕暮れのまま時が止まった町の絵に続きを描き始めると、描いた覚えのない小物が絵の中に増えていった。",
+      "genres": [
+        "ファンタジー"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5056,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "未完の原画",
+          "file": "works/yuugure/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1045
+        },
+        {
+          "no": 2,
+          "title": "増える小物",
+          "file": "works/yuugure/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 964
+        },
+        {
+          "no": 3,
+          "title": "祖母のメモ",
+          "file": "works/yuugure/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1037
+        },
+        {
+          "no": 4,
+          "title": "最後の一頁",
+          "file": "works/yuugure/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1004
+        },
+        {
+          "no": 5,
+          "title": "初めての朝",
+          "file": "works/yuugure/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1006
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "代行、午前二時",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "運転代行のドライバー・柿沼妙子が駆け抜ける、午後九時から夜明けまでの一夜。助手席と後部座席に揺れる客たちの小さな物語と、午前二時に乗せた最後の客からの、少し変わった頼みごと。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5068,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "午後九時、出庫",
+          "file": "works/drive/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1041
+        },
+        {
+          "no": 2,
+          "title": "午前零時",
+          "file": "works/drive/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1055
+        },
+        {
+          "no": 3,
+          "title": "無線の夜",
+          "file": "works/drive/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1039
+        },
+        {
+          "no": 4,
+          "title": "午前二時、最後の客",
+          "file": "works/drive/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 983
+        },
+        {
+          "no": 5,
+          "title": "帰庫",
+          "file": "works/drive/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 950
+        }
+      ]
+    },
+    {
+      "id": "hikouki",
+      "title": "最後のプロペラ",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "南の離島を結ぶ小型プロペラ機の機長、神谷玲。長年飛ばしてきた機体の退役が決まり、玲は進路の選択を迫られる。島の常連たちと過ごす、最後の一週間のフライト。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "切ない"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5211,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "退役の通達",
+          "file": "works/hikouki/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1040
+        },
+        {
+          "no": 2,
+          "title": "いつもの空",
+          "file": "works/hikouki/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1026
+        },
+        {
+          "no": 3,
+          "title": "進学のフライト",
+          "file": "works/hikouki/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1020
+        },
+        {
+          "no": 4,
+          "title": "欠航の夜",
+          "file": "works/hikouki/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 977
+        },
+        {
+          "no": 5,
+          "title": "ラストフライト",
+          "file": "works/hikouki/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1148
+        }
+      ]
     }
   ]
 }
