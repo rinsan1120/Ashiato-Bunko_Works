@@ -434,6 +434,60 @@
           "chars": 2566
         }
       ]
+    },
+    {
+      "id": "ashita",
+      "title": "水をやるのは、明日の朝",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "妻を亡くし、小学四年生の娘・灯と二人で暮らす父。台所の窓辺に残された小さな鉢を倒してしまった四月の朝から始まる、四季を通した親子の日々。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "心温まる",
+        "切ない"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 12078,
+      "estimatedMinutes": 24,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "窓辺に残ったもの",
+          "file": "works/ashita/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2400
+        },
+        {
+          "no": 2,
+          "title": "録音されなかった言葉",
+          "file": "works/ashita/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2342
+        },
+        {
+          "no": 3,
+          "title": "かわいそうではない日",
+          "file": "works/ashita/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2372
+        },
+        {
+          "no": 4,
+          "title": "葉のない季節",
+          "file": "works/ashita/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2387
+        },
+        {
+          "no": 5,
+          "title": "明日の朝",
+          "file": "works/ashita/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2577
+        }
+      ]
     }
   ]
 }
