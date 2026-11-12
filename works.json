@@ -326,6 +326,60 @@
           "chars": 2809
         }
       ]
+    },
+    {
+      "id": "kaze",
+      "title": "風の通る日、椅子を並べる",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "柚川町に越してきた翻訳者の真帆は、毎朝の散歩で立ち寄る川岸に、座る場所がないことを残念に思う。花屋のトキから、昔そこに緑の長椅子があったと聞いた真帆は、木工職人の塩見や役場の石田と相談しながら、椅子を戻す道を少しずつ探していく。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "心温まる",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 11435,
+      "estimatedMinutes": 23,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "川岸の余白",
+          "file": "works/kaze/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2216
+        },
+        {
+          "no": 2,
+          "title": "木目を読む人",
+          "file": "works/kaze/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2253
+        },
+        {
+          "no": 3,
+          "title": "雨を待つ木",
+          "file": "works/kaze/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2165
+        },
+        {
+          "no": 4,
+          "title": "緑色を選ぶ",
+          "file": "works/kaze/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2165
+        },
+        {
+          "no": 5,
+          "title": "座って見える空",
+          "file": "works/kaze/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2636
+        }
+      ]
     }
   ]
 }
