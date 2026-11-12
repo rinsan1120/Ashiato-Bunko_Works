@@ -218,6 +218,113 @@
           "chars": 1255
         }
       ]
+    },
+    {
+      "id": "yanagi",
+      "title": "柳通り、四時十七分の一人席",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "商店街の喫茶店「白鳥」の店主・咲は、毎日午後四時十七分にだけ長屋のエレベーターに乗る男が気になっていた。男が置いていった鞄、二階の部屋に残された名簿の手帳。「待つ」ことをめぐる小さな謎を追う。",
+      "genres": [
+        "ミステリー"
+      ],
+      "styles": [
+        "不思議な雰囲気"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 10009,
+      "estimatedMinutes": 20,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "昇降する日々",
+          "file": "works/yanagi/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1870
+        },
+        {
+          "no": 2,
+          "title": "止まったままの日々",
+          "file": "works/yanagi/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1435
+        },
+        {
+          "no": 3,
+          "title": "留守の手紙",
+          "file": "works/yanagi/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1865
+        },
+        {
+          "no": 4,
+          "title": "悪い日の財布",
+          "file": "works/yanagi/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2787
+        },
+        {
+          "no": 5,
+          "title": "一番星の看板",
+          "file": "works/yanagi/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2052
+        }
+      ]
+    },
+    {
+      "id": "nanaban",
+      "title": "七番目の店は、まだ開かない",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "印刷所で働く千紘は、商店街の古い地図にだけ描かれた「七番店」の調査を頼まれる。ゼロ円の品々、三分進んだ時計台、暗号めいた数字の並び。買い物をしない人だけに見える店の正体を追う、日常ミステリー。",
+      "genres": [
+        "ミステリー"
+      ],
+      "styles": [
+        "コメディ",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 11959,
+      "estimatedMinutes": 24,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "地図にだけある店",
+          "file": "works/nanaban/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2300
+        },
+        {
+          "no": 2,
+          "title": "ゼロ円の領収書",
+          "file": "works/nanaban/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2126
+        },
+        {
+          "no": 3,
+          "title": "商店街のうしろ側",
+          "file": "works/nanaban/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2217
+        },
+        {
+          "no": 4,
+          "title": "三分だけ早い開店",
+          "file": "works/nanaban/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2507
+        },
+        {
+          "no": 5,
+          "title": "売らないものを一つ",
+          "file": "works/nanaban/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2809
+        }
+      ]
     }
   ]
 }
