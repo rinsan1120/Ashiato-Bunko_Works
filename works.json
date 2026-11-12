@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "works": [
+    {
+      "id": "mado",
+      "title": "窓をひとつ、借りていく",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "イラストレーターの白川梢は、歩く地図を描く仕事で港町・波折を訪れる。通りの店「窓屋」は、場所と時間に結びついた額縁の“窓”を貸し出していた。欠けた五つ目の窓を探す小さな旅の中で、梢は町と、自分の「まだ見ていない景色」に出会っていく。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "情景描写重視",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 17646,
+      "estimatedMinutes": 35,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "十時の坂",
+          "file": "works/mado/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 3074
+        },
+        {
+          "no": 2,
+          "title": "二つ目の海",
+          "file": "works/mado/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 3062
+        },
+        {
+          "no": 3,
+          "title": "音のする庭",
+          "file": "works/mado/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 3626
+        },
+        {
+          "no": 4,
+          "title": "雨宿りの橋",
+          "file": "works/mado/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 3580
+        },
+        {
+          "no": 5,
+          "title": "まだ名前のない景色",
+          "file": "works/mado/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 4304
+        }
+      ]
+    },
+    {
+      "id": "hoshi",
+      "title": "星を煮る夜",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "流星群を見に月尾高原を訪れた亜紀を待っていたのは、曇り空と、「星を煮る」店・青い台所だった。カシス摘み、旧天文台、子どもたちの作る“地面の星空”。見えないはずの星が、少しずつ近づいてくる一夜の物語。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "心温まる",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 13406,
+      "estimatedMinutes": 27,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "星空、仕込み中",
+          "file": "works/hoshi/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2436
+        },
+        {
+          "no": 2,
+          "title": "果樹園の向こうの時間",
+          "file": "works/hoshi/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2775
+        },
+        {
+          "no": 3,
+          "title": "古い天文台の引き出し",
+          "file": "works/hoshi/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2609
+        },
+        {
+          "no": 4,
+          "title": "地面に降りた天の川",
+          "file": "works/hoshi/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2570
+        },
+        {
+          "no": 5,
+          "title": "願いごとのいらない夜",
+          "file": "works/hoshi/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 3016
+        }
+      ]
+    },
+    {
+      "id": "kumo",
+      "title": "雲の航路",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "雲の上に地図を描く見習い・鈴は、空郵便船《雨燕》の船長・千景とともに、年に一度だけ近づく浮島・環島の「風寄せ市」を目指す。古い航路はもう通じない。手がかりは「朝六時に雲が割れる」「青い路地」という言葉だけだった。",
+      "genres": [
+        "ファンタジー"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 12834,
+      "estimatedMinutes": 26,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "風待ち港の青い封筒",
+          "file": "works/kumo/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2025
+        },
+        {
+          "no": 2,
+          "title": "綿雲市場の風の匂い",
+          "file": "works/kumo/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2436
+        },
+        {
+          "no": 3,
+          "title": "風が鳴る峡谷",
+          "file": "works/kumo/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2219
+        },
+        {
+          "no": 4,
+          "title": "夜明けを待つ船",
+          "file": "works/kumo/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2738
+        },
+        {
+          "no": 5,
+          "title": "空に咲く市",
+          "file": "works/kumo/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 3416
+        }
+      ]
+    },
+    {
+      "id": "saishueki",
+      "title": "最終駅のノート",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "受験勉強から逃げて、廃線間近の無人駅・汐見駅にたどり着いた悠太。ベンチの駅ノートに書き込んだ一文に、翌日、知らない誰かから返事がついていた。顔も名前も知らない文通相手との、駅がなくなるまでの二週間。",
+      "genres": [
+        "青春"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-12",
+      "totalChars": 5037,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "逃げた先の駅",
+          "file": "works/saishueki/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 960
+        },
+        {
+          "no": 2,
+          "title": "反対向きの人",
+          "file": "works/saishueki/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1146
+        },
+        {
+          "no": 3,
+          "title": "会えない理由",
+          "file": "works/saishueki/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 830
+        },
+        {
+          "no": 4,
+          "title": "三十一日まで",
+          "file": "works/saishueki/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 846
+        },
+        {
+          "no": 5,
+          "title": "始発のホーム",
+          "file": "works/saishueki/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1255
+        }
+      ]
+    }
+  ]
+}
