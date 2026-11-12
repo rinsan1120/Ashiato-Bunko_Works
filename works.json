@@ -974,6 +974,168 @@
           "chars": 1086
         }
       ]
+    },
+    {
+      "id": "kamera",
+      "title": "遺影は笑顔で",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "生前遺影の撮影も引き受ける写真スタジオの二代目、仁科環。ある日、病を家族にまだ明かしていないという男性が、一人で遺影を撮りに来る。環は家族写真を撮ることを、静かに提案し続ける。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5076,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "一人で来た客",
+          "file": "works/kamera/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1021
+        },
+        {
+          "no": 2,
+          "title": "撮れなかった写真",
+          "file": "works/kamera/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1012
+        },
+        {
+          "no": 3,
+          "title": "妻の写真",
+          "file": "works/kamera/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 948
+        },
+        {
+          "no": 4,
+          "title": "告げる日",
+          "file": "works/kamera/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1037
+        },
+        {
+          "no": 5,
+          "title": "笑顔の遺影",
+          "file": "works/kamera/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1058
+        }
+      ]
+    },
+    {
+      "id": "tokei",
+      "title": "五分遅れの懐中時計",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "昭和三年、東京・日本橋の時計店。修理職人の徳永周平のもとに、直しても一日に五分だけ遅れる懐中時計が戻ってくる。時計の内側に残されていたのは、十年前に亡くなった兄弟子の修理印だった。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5098,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "直らない時計",
+          "file": "works/tokei/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 994
+        },
+        {
+          "no": 2,
+          "title": "兄弟子の仕事",
+          "file": "works/tokei/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1096
+        },
+        {
+          "no": 3,
+          "title": "五分の理由",
+          "file": "works/tokei/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 957
+        },
+        {
+          "no": 4,
+          "title": "直すか、残すか",
+          "file": "works/tokei/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1012
+        },
+        {
+          "no": 5,
+          "title": "正確な時間",
+          "file": "works/tokei/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1039
+        }
+      ]
+    },
+    {
+      "id": "kissaten",
+      "title": "夜明け前のブレンド",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "深夜零時から朝五時までだけ開く喫茶店「夜明け前」。マスター水沢圭子の店には、夜に起きている人々が集う。毎夜三時に来てノートを書く常連の青年が、ある夜から姿を見せなくなった。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5051,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "午前零時の開店",
+          "file": "works/kissaten/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 983
+        },
+        {
+          "no": 2,
+          "title": "来ない夜",
+          "file": "works/kissaten/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 967
+        },
+        {
+          "no": 3,
+          "title": "夜の人々",
+          "file": "works/kissaten/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1050
+        },
+        {
+          "no": 4,
+          "title": "最後の一杯",
+          "file": "works/kissaten/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1080
+        },
+        {
+          "no": 5,
+          "title": "朝五時の閉店",
+          "file": "works/kissaten/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 971
+        }
+      ]
     }
   ]
 }
