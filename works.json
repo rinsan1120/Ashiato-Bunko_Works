@@ -812,6 +812,168 @@
           "chars": 1055
         }
       ]
+    },
+    {
+      "id": "sakura",
+      "title": "桜守の最後の春",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "今年度で閉校する山間の小学校。元教師の森川フサエのもとに、校庭の老桜が伐採されるという知らせと、四十年ぶりに届いた卒業生からの手紙が届く。フサエは接ぎ木の苗を作り、歴代の卒業生たちへ桜を届けようと、古い名簿をたどり始める。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "切ない",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5072,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "閉校の知らせ",
+          "file": "works/sakura/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1036
+        },
+        {
+          "no": 2,
+          "title": "接ぎ木",
+          "file": "works/sakura/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1017
+        },
+        {
+          "no": 3,
+          "title": "名簿をたどる",
+          "file": "works/sakura/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 1009
+        },
+        {
+          "no": 4,
+          "title": "最後の花見",
+          "file": "works/sakura/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 932
+        },
+        {
+          "no": 5,
+          "title": "苗の行方",
+          "file": "works/sakura/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1078
+        }
+      ]
+    },
+    {
+      "id": "henro",
+      "title": "遍路の託し物",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "勤め先の倒産で仕事を失った岡部修二は、母の勧めで四国遍路を歩き始める。遍路宿で出会った老遍路に小さな包みを託されたことから、行く先々で託し物が修二の手に集まっていく。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "心温まる",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5039,
+      "estimatedMinutes": 10,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "一枚の地図",
+          "file": "works/henro/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 1019
+        },
+        {
+          "no": 2,
+          "title": "託し物の重さ",
+          "file": "works/henro/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1029
+        },
+        {
+          "no": 3,
+          "title": "休む場所",
+          "file": "works/henro/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 968
+        },
+        {
+          "no": 4,
+          "title": "届ける相手",
+          "file": "works/henro/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 962
+        },
+        {
+          "no": 5,
+          "title": "自分の足で",
+          "file": "works/henro/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1061
+        }
+      ]
+    },
+    {
+      "id": "hoshizora",
+      "title": "アタカマの星図",
+      "author": "daifuku",
+      "authorName": "だいふく",
+      "synopsis": "チリ・アタカマ砂漠の天文台で望遠鏡の整備技師として働く高嶺沙耶。麓の村の少女マリアは、星々に独自の名前をつけていた。その呼び名の一つが、沙耶の祖父が遺した手描きの星図と重なっている。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "切ない"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 5259,
+      "estimatedMinutes": 11,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "世界でいちばん乾いた場所",
+          "file": "works/hoshizora/chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 985
+        },
+        {
+          "no": 2,
+          "title": "マリアの星の名前",
+          "file": "works/hoshizora/chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 1048
+        },
+        {
+          "no": 3,
+          "title": "観測できない夜",
+          "file": "works/hoshizora/chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 944
+        },
+        {
+          "no": 4,
+          "title": "地上の星空",
+          "file": "works/hoshizora/chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 1196
+        },
+        {
+          "no": 5,
+          "title": "名前のある星",
+          "file": "works/hoshizora/chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 1086
+        }
+      ]
     }
   ]
 }
