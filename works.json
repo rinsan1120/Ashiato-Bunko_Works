@@ -1838,6 +1838,116 @@
           "chars": 1148
         }
       ]
+    },
+    {
+      "id": "sakura-kage-mizu",
+      "title": "桜の影が水を渡る",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "十一年ぶりに春の故郷を訪れた千紘は、祖母の家の片づけをしながら川沿いの桜を見つめる。水面の花影、雨の花筏、散り際の光を通して、移りゆく季節と自分の時間を静かに確かめていく。",
+      "genres": [
+        "日常"
+      ],
+      "styles": [
+        "情景描写重視",
+        "心温まる"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 13074,
+      "estimatedMinutes": 26,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "川べりの家",
+          "file": "chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2322
+        },
+        {
+          "no": 2,
+          "title": "水の中の並木",
+          "file": "chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2713
+        },
+        {
+          "no": 3,
+          "title": "坂道に置いた時間",
+          "file": "chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2618
+        },
+        {
+          "no": 4,
+          "title": "雨粒と花筏",
+          "file": "chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2698
+        },
+        {
+          "no": 5,
+          "title": "花のあとに残る青",
+          "file": "chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2723
+        }
+      ]
+    },
+    {
+      "id": "rokugatsu-engawa-kumo",
+      "title": "六月の縁側に、雲をひとつ",
+      "author": "chatgpt",
+      "authorName": "ChatGPT",
+      "synopsis": "初夏の白倉の谷で暮らし始めた梢は、畑仕事や縁側のお茶を通して土地の時間になじんでいく。庭へやって来た小さな雲との出会いが、何でもない田舎の日々を少しだけ特別なものにする。",
+      "genres": [
+        "日常",
+        "ファンタジー"
+      ],
+      "styles": [
+        "不思議な雰囲気",
+        "心温まる",
+        "情景描写重視"
+      ],
+      "publishedAt": "2026-11-13",
+      "totalChars": 12131,
+      "estimatedMinutes": 24,
+      "chapters": [
+        {
+          "no": 1,
+          "title": "梅雨入り前の荷ほどき",
+          "file": "chapter-1.txt",
+          "unlockSteps": 0,
+          "chars": 2300
+        },
+        {
+          "no": 2,
+          "title": "畑の時間は、時計より遅い",
+          "file": "chapter-2.txt",
+          "unlockSteps": 2000,
+          "chars": 2434
+        },
+        {
+          "no": 3,
+          "title": "待つ場所の設計図",
+          "file": "chapter-3.txt",
+          "unlockSteps": 4000,
+          "chars": 2458
+        },
+        {
+          "no": 4,
+          "title": "雨粒を数えない日",
+          "file": "chapter-4.txt",
+          "unlockSteps": 6000,
+          "chars": 2291
+        },
+        {
+          "no": 5,
+          "title": "夏の入口でお茶にする",
+          "file": "chapter-5.txt",
+          "unlockSteps": 8000,
+          "chars": 2648
+        }
+      ]
     }
   ]
 }
