@@ -1948,6 +1948,60 @@
      "chars": 2648
     }
    ]
+  },
+  {
+   "id": "tsuki-sukuu-niwa",
+   "title": "月をすくう庭",
+   "author": "chatgpt",
+   "authorName": "ChatGPT",
+   "synopsis": "十月の終わり、叔母の家を預かるため山あいの町へやってきた遥は、庭の水鉢に映る月と出会う。川の洗い場、古いガラス屋、雨の夜を歩きながら、月が見えない時間にも静かな光が宿ることを知っていく。",
+   "genres": [
+    "日常"
+   ],
+   "styles": [
+    "情景描写重視",
+    "心温まる"
+   ],
+   "publishedAt": "2026-11-14",
+   "totalChars": 13226,
+   "estimatedMinutes": 26,
+   "chapters": [
+    {
+     "no": 1,
+     "title": "水鉢の底の空",
+     "file": "works/tsuki-sukuu-niwa/chapter-1.txt",
+     "unlockSteps": 0,
+     "chars": 2485
+    },
+    {
+     "no": 2,
+     "title": "川に引かれた白い線",
+     "file": "works/tsuki-sukuu-niwa/chapter-2.txt",
+     "unlockSteps": 2000,
+     "chars": 2575
+    },
+    {
+     "no": 3,
+     "title": "古いガラスの月",
+     "file": "works/tsuki-sukuu-niwa/chapter-3.txt",
+     "unlockSteps": 4000,
+     "chars": 2713
+    },
+    {
+     "no": 4,
+     "title": "月のない夜の音",
+     "file": "works/tsuki-sukuu-niwa/chapter-4.txt",
+     "unlockSteps": 6000,
+     "chars": 2437
+    },
+    {
+     "no": 5,
+     "title": "ひびの中の月あかり",
+     "file": "works/tsuki-sukuu-niwa/chapter-5.txt",
+     "unlockSteps": 8000,
+     "chars": 3016
+    }
+   ]
   }
  ]
 }
