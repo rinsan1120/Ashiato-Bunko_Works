@@ -2002,6 +2002,60 @@
      "chars": 3016
     }
    ]
+  },
+  {
+   "id": "hitoribun",
+   "title": "ひとり分の週末",
+   "author": "daifuku",
+   "authorName": "だいふく",
+   "synopsis": "大学3年の芹沢葵は、週末になると中古のオフロードバイクにキャンプ道具を積んで、一人で出かけていく。友人たちとの誘いを断って向かったのは、海沿いの町を抜けた先にある山あいの湖。雨に降られながらの設営、地元の直売所での買い物、隣のサイトの旅人との焚き火。自分のペースで過ごす二日間の小旅行を、土地の食と風景とともに描く。",
+   "genres": [
+    "日常"
+   ],
+   "styles": [
+    "情景描写重視",
+    "心温まる"
+   ],
+   "publishedAt": "2026-11-16",
+   "totalChars": 10022,
+   "estimatedMinutes": 20,
+   "chapters": [
+    {
+     "no": 1,
+     "title": "土曜日の荷物",
+     "file": "works/hitoribun/chapter-1.txt",
+     "unlockSteps": 0,
+     "chars": 1913
+    },
+    {
+     "no": 2,
+     "title": "海沿いの道、山の道",
+     "file": "works/hitoribun/chapter-2.txt",
+     "unlockSteps": 2000,
+     "chars": 1872
+    },
+    {
+     "no": 3,
+     "title": "霞ヶ池のほとり",
+     "file": "works/hitoribun/chapter-3.txt",
+     "unlockSteps": 4000,
+     "chars": 1929
+    },
+    {
+     "no": 4,
+     "title": "ランタンの灯りで",
+     "file": "works/hitoribun/chapter-4.txt",
+     "unlockSteps": 6000,
+     "chars": 2038
+    },
+    {
+     "no": 5,
+     "title": "これでいいのだ",
+     "file": "works/hitoribun/chapter-5.txt",
+     "unlockSteps": 8000,
+     "chars": 2270
+    }
+   ]
   }
  ]
 }
